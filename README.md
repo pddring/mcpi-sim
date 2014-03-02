@@ -20,9 +20,8 @@ It's not affiliated in any way with the Raspberry Pi Foundation or Mojang.
 
 What do I need?:
 ================
-This project is designed to be used with python 2.7 with pygame. 
-I use portable python 2.7 because it comes with pygame bundled with it: http://portablepython.com
-This project also uses OpenGL but it includes the relevant source code for that.
+This project is designed to be used with python 2.7 with pygame and numpy
+The easiest way to get both is by downloading portable python from: http://portablepython.com which comes with pygame and numpy
 
 
 Getting Started:
