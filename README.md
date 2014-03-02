@@ -37,6 +37,7 @@ The easiest way to get both is by downloading portable python from: http://porta
 Getting Started:
 ================
 ![Screenshot of student instructions](https://raw.github.com/pddring/mcpi-sim/master/local/img/screenshot-instructions.png)
+
 Download and print the student instruction sheet from [here](https://github.com/pddring/mcpi-sim/blob/master/student-instructions.xlsx?raw=true):
 
 The instruction sheet guides students through the following instructions:
