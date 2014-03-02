@@ -4,7 +4,12 @@ mcpi-sim
 Minecraft Raspberry Pi API Simulator for python 2.7 (using pygame &amp; openGL)
 
 ![Screenshot of minecraft on a Raspberry Pi](https://raw.github.com/pddring/mcpi-sim/master/local/img/screenshot-pi.png)
+You can get a whole class of students all writing code that builds up a shared virtual 3d hollywood sign on a raspberry pi running minecraft.
+
+
 ![Screenshot of minecraft simulator on a desktop PC](https://raw.github.com/pddring/mcpi-sim/master/local/img/screenshot-sim.png)
+You can get each student involved by writing code on their own desktop pc, then by changing one line of code, they can see their program run on the raspberry pi
+
 
 Background
 ==========
