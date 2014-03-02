@@ -27,6 +27,9 @@ This project also uses OpenGL but it includes the relevant source code for that.
 
 Getting Started:
 ================
+
 1) Download and extract the source files.
+
 2) Open mc.py in IDLE
+
 3) Adapt and run (press F5)
